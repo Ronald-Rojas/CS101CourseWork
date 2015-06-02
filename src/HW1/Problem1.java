@@ -3,7 +3,7 @@ package HW1;
 import javax.swing.JOptionPane;
 
 
-public class problem1 {
+public class Problem1 {
 	
 	public static void main(String[] args) {
 			String welcomeJava, welcomeComp, programFun;
